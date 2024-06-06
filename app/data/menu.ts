@@ -1,0 +1,98 @@
+export const menu_data = [
+  {
+    id: 1,
+    name: 'Беляш',
+    price: 40,
+    imageUrl: require('../assets/images/belyash.png'),
+  },
+  {
+    id: 2,
+    name: 'Чебурек',
+    price: 35,
+    imageUrl: require('../assets/images/cheburek.jpg'),
+  },
+  {
+    id: 3,
+    name: 'Чизбургер',
+    price: 72,
+    imageUrl: require('../assets/images/cheeseburger.png'),
+  },
+  {
+    id: 4,
+    name: 'Сосиска в тесте',
+    price: 35,
+    imageUrl: require('../assets/images/sosiska-v-teste.png'),
+  },
+  {
+    id: 5,
+    name: 'Хот-дог (1 сосиска)',
+    price: 55,
+    imageUrl: require('../assets/images/hotdog.png'),
+  },
+  {
+    id: 6,
+    name: 'Хот-дог (2 сосиски)',
+    price: 60,
+    imageUrl: require('../assets/images/hotdog.png'),
+  },
+  {
+    id: 7,
+    name: 'Корн дог',
+    price: 40,
+    imageUrl: require('../assets/images/korndog.jpg'),
+  },
+  {
+    id: 8,
+    name: 'Блин (ветчина, сыр)',
+    price: 60,
+    imageUrl: require('../assets/images/blin.webp'),
+  },
+  {
+    id: 9,
+    name: 'Блин (сметана)',
+    price: 40,
+    imageUrl: require('../assets/images/blin.webp'),
+  },
+  {
+    id: 10,
+    name: 'Блин (сгущенка)',
+    price: 40,
+    imageUrl: require('../assets/images/blin.webp'),
+  },
+  {
+    id: 11,
+    name: 'Булочка московская',
+    price: 30,
+    imageUrl: require('../assets/images/bulochka-mosk.jpg'),
+  },
+  {
+    id: 12,
+    name: 'Чай',
+    price: 12,
+    imageUrl: require('../assets/images/tea.webp'),
+  },
+  {
+    id: 13,
+    name: 'Чай с лимоном',
+    price: 15,
+    imageUrl: require('../assets/images/tea.webp'),
+  },
+  {
+    id: 14,
+    name: 'Кофе со сливками',
+    price: 25,
+    imageUrl: require('../assets/images/kofeslivki.png'),
+  },
+  {
+    id: 15,
+    name: 'Капучино',
+    price: 35,
+    imageUrl: require('../assets/images/kapuchino.jpg'),
+  },
+  {
+    id: 16,
+    name: 'Квас',
+    price: 27,
+    imageUrl: require('../assets/images/kvas.jpg'),
+  },
+];
